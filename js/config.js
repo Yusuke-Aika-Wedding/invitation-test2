@@ -1,7 +1,7 @@
 window.WEDDING_CONFIG = {
   "repoName": "invitation-test2",
   "baseInvitationUrl": "https://Yusuke-Aika-Wedding.github.io/invitation-test2/",
-  "gasWebAppUrl": "PASTE_YOUR_GAS_WEB_APP_URL_HERE",
+  "gasWebAppUrl": "https://script.google.com/macros/s/AKfycbxRkqEGWQkiMQMd9C7c9KlMSpy5wYeoC89mFj_2Rh3FUS5oaqwDx9HaSKkBNManZKFq/exec",
   "weddingDateIso": "2027-03-21T10:00:00+09:00",
   "venueName": "キンプトン新宿東京",
   "guests": {
